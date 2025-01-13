@@ -163,3 +163,6 @@ sft_output/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 .DS_Store
+
+# Stuff I added as I stepped through the course ...
+1_instruction_tuning/notebooks/SmolLM2-FT-MyDataset/
