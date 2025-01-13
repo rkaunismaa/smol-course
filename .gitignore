@@ -166,3 +166,4 @@ sft_output/
 
 # Stuff I added as I stepped through the course ...
 1_instruction_tuning/notebooks/SmolLM2-FT-MyDataset/
+2_preference_alignment/notebooks/SmolLM2-FT-DPO/
