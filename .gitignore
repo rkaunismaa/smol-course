@@ -170,3 +170,5 @@ sft_output/
 
 2_preference_alignment/notebooks/SmolLM2-FT-ORPO/
 2_preference_alignment/notebooks/results/
+
+3_parameter_efficient_finetuning/notebooks/SmolLM2-FT-MyDataset/
